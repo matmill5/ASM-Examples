@@ -1,2 +1,2 @@
-# x86-ASM-Examples
-x86 ASM Portfolio Examples
+# ASM-Examples
+ASM Portfolio Examples, x86 and MIPS
